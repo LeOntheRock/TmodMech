@@ -1,0 +1,93 @@
+Mods: {
+	NewMod: {
+		Items: {
+			MechBullet: {
+				DisplayName: Adaptive Bullet
+				Tooltip: The world of steel's ammunition
+			}
+
+			BashoHead: {
+				DisplayName: BASHO Head
+				Tooltip:
+					'''
+					Head part designed by BAU for old-gen mech. 
+					One of the earliest models, bulky and simple.
+					'''
+				SetBonus: Increases melee damage by {0}%
+			}
+
+			BashoBody: {
+				DisplayName: BASHO Core
+				Tooltip:
+					'''
+					Armored Core developed by BAU for old-gen mech. 
+					One of the earliest models, bulky and simple.
+					'''
+			}
+
+			BashoLegs: {
+				DisplayName: BASHO Legs
+				Tooltip:
+					'''
+					Bipedal legs developed by BAU for old-gen mech. 
+					One of the earliest models, bulky, simple, and grounded.
+					'''
+			}
+
+			Curtis: {
+				DisplayName: Curtis Linear Rifle
+				Tooltip:
+					'''
+					High-spped linear rifle developed by Faula.
+					Special rifle that accelerates bullets using electromagnetic propulsion.
+					Charge the weapon for a faster and more powerful shot.
+					'''
+			}
+
+			Ransetsu: {
+				DisplayName: Ransetsu Burst Rifle
+				Tooltip:
+					'''
+					Burst rifle developed by BAU. 
+					Deliver reliable offensive damage and impact. 
+					Shoot in a burst of 3.
+					'''
+			}
+
+			B1S: {
+				DisplayName: B-1S Booster
+				Tooltip:
+					'''
+					1st-generation booster developed by ShenLong corporation. 
+					Though old fashioned, this booster is still a viable choice for lighter mechs 
+					due to its modest energy burden.
+					'''
+			}
+		}
+
+		Projectiles: {
+			MechBullet: {
+				DisplayName: Adaptive Bullet
+				Tooltip: The world of steel's common ammunition
+				MechBullet.DisplayName: Mech Bullet
+			}
+		}
+
+		Configs: {
+			NewModConfig: {
+				DisplayName: New Mod Config
+				Headers.Items: Items Header
+
+				WingsToggle: {
+					Label: Wings Toggle
+					Tooltip: ""
+				}
+
+				WeaponWithGrowingDamageToggle: {
+					Label: Weapon With Growing Damage Toggle
+					Tooltip: ""
+				}
+			}
+		}
+	}
+}

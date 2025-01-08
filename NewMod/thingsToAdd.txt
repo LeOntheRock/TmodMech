@@ -1,0 +1,6 @@
+Possible Mechanic for this mod:
+1. Booster mana drain (per second)
+2. Stagger + impact stats on ammo and weapons
+3. Stamina/Energy
+4. Charging weapons
+5. Missles Multi Lock?

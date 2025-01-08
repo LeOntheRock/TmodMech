@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8ks88nZp+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\84936\\OneDrive\\Desktop\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NewMod\\NewMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84936\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
